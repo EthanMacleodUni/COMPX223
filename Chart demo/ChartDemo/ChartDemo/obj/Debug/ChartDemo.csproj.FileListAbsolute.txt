@@ -1,0 +1,20 @@
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\ChartDemo.csprojAssemblyReference.cache
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\DatabaseDemo.Properties.Resources.resources
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\ChartDemo.csproj.GenerateResource.cache
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\DatabaseDemo.exe
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\DatabaseDemo.pdb
+H:\courses\COMPX223\project\ChartDemo\bin\Debug\DatabaseDemo.exe.config
+H:\courses\COMPX223\project\ChartDemo\bin\Debug\DatabaseDemo.exe
+H:\courses\COMPX223\project\ChartDemo\bin\Debug\DatabaseDemo.pdb
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\ChartDemo.ChartForm.resources
+C:\Users\ethan\OneDrive\Desktop\University\Third Year\COMPX223\Chart demo\ChartDemo\ChartDemo\bin\Debug\DatabaseDemo.exe.config
+C:\Users\ethan\OneDrive\Desktop\University\Third Year\COMPX223\Chart demo\ChartDemo\ChartDemo\bin\Debug\DatabaseDemo.exe
+C:\Users\ethan\OneDrive\Desktop\University\Third Year\COMPX223\Chart demo\ChartDemo\ChartDemo\bin\Debug\DatabaseDemo.pdb
+C:\Users\ethan\OneDrive\Desktop\University\Third Year\COMPX223\Chart demo\ChartDemo\ChartDemo\obj\Debug\ChartDemo.csproj.AssemblyReference.cache
+C:\Users\ethan\OneDrive\Desktop\University\Third Year\COMPX223\Chart demo\ChartDemo\ChartDemo\obj\Debug\ChartDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ethan\OneDrive\Desktop\University\Third Year\COMPX223\Chart demo\ChartDemo\ChartDemo\obj\Debug\ChartDemo.ChartForm.resources
+C:\Users\ethan\OneDrive\Desktop\University\Third Year\COMPX223\Chart demo\ChartDemo\ChartDemo\obj\Debug\DatabaseDemo.Properties.Resources.resources
+C:\Users\ethan\OneDrive\Desktop\University\Third Year\COMPX223\Chart demo\ChartDemo\ChartDemo\obj\Debug\ChartDemo.csproj.GenerateResource.cache
+C:\Users\ethan\OneDrive\Desktop\University\Third Year\COMPX223\Chart demo\ChartDemo\ChartDemo\obj\Debug\ChartDemo.csproj.CoreCompileInputs.cache
+C:\Users\ethan\OneDrive\Desktop\University\Third Year\COMPX223\Chart demo\ChartDemo\ChartDemo\obj\Debug\DatabaseDemo.exe
+C:\Users\ethan\OneDrive\Desktop\University\Third Year\COMPX223\Chart demo\ChartDemo\ChartDemo\obj\Debug\DatabaseDemo.pdb
